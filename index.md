@@ -70,7 +70,7 @@ Relative link to another file: [More Notes](notes.md)
 
 ## Task List
 
-* [x] Learn deeply
+* [x] *Learn deeply*
 * [x] Build things that matter
 * [ ] Keep improving every year
 
